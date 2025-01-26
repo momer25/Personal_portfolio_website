@@ -294,7 +294,7 @@ section {
 .arrow {
   position: absolute;
   right: relative;
-  bottom: 2.5rem;
+  bottom: relative;
 }
 
 .details-container {
